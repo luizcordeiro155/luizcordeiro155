@@ -26,9 +26,17 @@ Construindo experiências digitais com **Python**, **TypeScript** e tecnologia a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcordeiro155&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=7c3aed&title_color=e879f9&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcordeiro155&layout=compact&langs_count=8&hide_border=false&border_color=7c3aed&title_color=e879f9&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizcordeiro155&theme=github_dark" alt="Estatísticas do GitHub" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizcordeiro155&theme=github_dark" alt="Linguagens por repositório" />
 </div>
+
+<br />
+
+<div align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizcordeiro155&theme=github_dark" alt="Resumo do perfil" />
+</div>
+
+<br />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=luizcordeiro155&theme=transparent&hide_border=false&border=7C3AED&stroke=7C3AED&ring=E879F9&fire=E879F9&currStreakLabel=E879F9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
@@ -59,27 +67,46 @@ Construindo experiências digitais com **Python**, **TypeScript** e tecnologia a
 
 ## 🚀 Projetos em destaque
 
-<div align="center">
-  <a href="https://github.com/luizcordeiro155/KaynApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizcordeiro155&repo=KaynApp&hide_border=false&border_color=7c3aed&title_color=e879f9&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" alt="KaynApp" />
-  </a>
-  <a href="https://github.com/luizcordeiro155/Painel-Solar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizcordeiro155&repo=Painel-Solar&hide_border=false&border_color=7c3aed&title_color=e879f9&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" alt="Painel Solar" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/luizcordeiro155/Planos-de-saude">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizcordeiro155&repo=Planos-de-saude&hide_border=false&border_color=7c3aed&title_color=e879f9&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" alt="Planos de Saúde" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☀️ Painel Solar</h3>
+      <p>Aplicação web com foco em uma experiência moderna e organizada.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Web-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Web" />
+      </p>
+      <a href="https://github.com/luizcordeiro155/Painel-Solar"><b>Ver repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 Planos de Saúde</h3>
+      <p>Projeto web voltado para apresentação e organização de planos de saúde.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Web-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Web" />
+      </p>
+      <a href="https://github.com/luizcordeiro155/Planos-de-saude"><b>Ver repositório →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🤖 Kayn</h3>
+      <p>Projeto de bot e automações com arquitetura modular em Python, integrações e componentes para Discord.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+        <img src="https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord" />
+        <img src="https://img.shields.io/badge/Projeto_Privado-7c3aed?style=flat-square&logo=github&logoColor=white" alt="Projeto privado" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizcordeiro155&bg_color=0d1117&color=e879f9&line=7c3aed&point=a78bfa&area=true&hide_border=true" alt="Gráfico de atividade" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=luizcordeiro155&bg_color=0d1117&color=e879f9&line=7c3aed&point=a78bfa&area=true&hide_border=true" alt="Gráfico de atividade" />
 </div>
 
 ---
