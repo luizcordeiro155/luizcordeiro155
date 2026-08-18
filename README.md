@@ -109,7 +109,7 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Commits
 
 <div align="center">
   <picture>
