@@ -23,7 +23,7 @@ Construindo produtos digitais, automações e experiências para comunidades onl
 
 ---
 
-## 🚀 Projeto principal — Kayn
+## 🚀 Projeto principal: Kayn
 
 <div align="center">
 
