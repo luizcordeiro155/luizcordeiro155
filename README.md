@@ -27,7 +27,7 @@ Construindo produtos digitais, automações e experiências para comunidades onl
 
 <div align="center">
 
-<img src="./assets/kayn-avatar.svg" width="220" alt="Kayn" />
+<img src="./assets/Perfil.png" width="220" alt="Kayn" />
 
 ### Bot multifuncional para Discord
 
