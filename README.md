@@ -42,20 +42,6 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="62%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizcordeiro155&theme=github_dark" alt="Estatísticas do GitHub" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizcordeiro155&theme=github_dark" alt="Resumo do perfil" />
-</div>
-
----
-
 ## 💻 Linguagens e tecnologias
 
 <div align="center">
