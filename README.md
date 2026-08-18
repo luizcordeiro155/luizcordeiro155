@@ -43,20 +43,14 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizcordeiro155&theme=github_dark" alt="Estatísticas do GitHub" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizcordeiro155&theme=github_dark" alt="Linguagens por repositório" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcordeiro155&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcordeiro155&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizcordeiro155&theme=github_dark" alt="Resumo do perfil" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=luizcordeiro155&theme=transparent&hide_border=false&border=7C3AED&stroke=7C3AED&ring=E879F9&fire=E879F9&currStreakLabel=E879F9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=luizcordeiro155&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -119,6 +113,18 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
     </td>
   </tr>
 </table>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizcordeiro155/luizcordeiro155/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizcordeiro155/luizcordeiro155/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação das contribuições" src="https://raw.githubusercontent.com/luizcordeiro155/luizcordeiro155/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
