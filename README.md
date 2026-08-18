@@ -32,7 +32,7 @@ Construindo produtos digitais, automações e experiências para comunidades onl
 O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderação, recursos gamer, inteligência artificial e ferramentas para servidores do Discord.
 
 [![Site Oficial](https://img.shields.io/badge/SITE_OFICIAL-KAYN-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://kaynoficial.vercel.app/)
-[![Repositório](https://img.shields.io/badge/CÓDIGO-KAYNAPP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizcordeiro155/KaynApp)
+![Projeto Privado](https://img.shields.io/badge/CÓDIGO--FONTE-PRIVADO-24292F?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -88,13 +88,13 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 KaynApp</h3>
-      <p>Bot multifuncional para Discord com sistemas de comunidade, entretenimento, música, cards, economia, moderação e recursos gamer.</p>
+      <h3>🤖 Kayn</h3>
+      <p>Bot multifuncional para Discord com sistemas de comunidade, entretenimento, música, cards, economia, moderação, IA e recursos gamer.</p>
       <p>
         <img src="https://img.shields.io/badge/Java_21-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
         <img src="https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord" />
+        <img src="https://img.shields.io/badge/Source-Private-0d1117?style=flat-square&logo=github&logoColor=white" alt="Código privado" />
       </p>
-      <a href="https://github.com/luizcordeiro155/KaynApp"><b>Ver repositório →</b></a><br />
       <a href="https://kaynoficial.vercel.app/"><b>Acessar site oficial →</b></a>
     </td>
     <td width="50%" valign="top">
