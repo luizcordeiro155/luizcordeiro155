@@ -17,7 +17,7 @@ Construindo produtos digitais, automações e experiências para comunidades onl
 - ☕ Desenvolvimento de aplicações e bots com **Java**
 - 🌐 Criação de aplicações web com **TypeScript / JavaScript**
 - 🤖 Bots, automações, APIs e integrações para Discord
-- 🗄️ Experiência com **PostgreSQL** e **Redis**
+- 🗄️ Experiência baixa/média com **PostgreSQL** e **Redis**
 - 🎮 Desenvolvimento de recursos para comunidades e experiências gamer
 - 🚀 Foco em transformar projetos em produtos completos e utilizáveis
 
