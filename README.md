@@ -2,9 +2,9 @@
 
 # Olá, eu sou o Luiz 👋
 
-### Desenvolvedor • Bots • Automações • Aplicações Web
+### Desenvolvedor • Java • TypeScript • Bots • Aplicações Web
 
-Construindo experiências digitais com **Python**, **TypeScript** e tecnologia aplicada a produtos reais.
+Construindo produtos digitais, automações e experiências para comunidades online.
 
 <img src="https://komarev.com/ghpvc/?username=luizcordeiro155&label=VISITAS%20AO%20PERFIL&color=7c3aed&style=for-the-badge" alt="Visualizações do perfil" />
 
@@ -14,12 +14,29 @@ Construindo experiências digitais com **Python**, **TypeScript** e tecnologia a
 
 ## 👨‍💻 Sobre mim
 
-- 🤖 Desenvolvimento de **bots, automações e integrações**
-- 🌐 Criação de **aplicações e experiências web**
-- 🐍 Projetos com **Python** e arquitetura modular
-- ⚡ Desenvolvimento com **TypeScript / JavaScript**
-- 🧠 Interesse em **IA, APIs e produtos digitais**
-- 🚀 Sempre evoluindo projetos do protótipo até produção
+- ☕ Desenvolvimento de aplicações e bots com **Java**
+- 🌐 Criação de aplicações web com **TypeScript / JavaScript**
+- 🤖 Bots, automações, APIs e integrações para Discord
+- 🗄️ Experiência com **PostgreSQL** e **Redis**
+- 🎮 Desenvolvimento de recursos para comunidades e experiências gamer
+- 🚀 Foco em transformar projetos em produtos completos e utilizáveis
+
+---
+
+## 🚀 Projeto principal — Kayn
+
+<div align="center">
+
+### Bot multifuncional para Discord
+
+O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderação, recursos gamer, inteligência artificial e ferramentas para servidores do Discord.
+
+[![Site Oficial](https://img.shields.io/badge/SITE_OFICIAL-KAYN-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://kaynoficial.vercel.app/)
+[![Repositório](https://img.shields.io/badge/CÓDIGO-KAYNAPP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizcordeiro155/KaynApp)
+
+</div>
+
+**Stack principal:** Java 21, JDA 5, Maven, PostgreSQL, Redis e integrações web.
 
 ---
 
@@ -47,56 +64,58 @@ Construindo experiências digitais com **Python**, **TypeScript** e tecnologia a
 ## 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,html,css,git,github,vscode,vercel&perline=10" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,nodejs,html,css,postgres,redis,maven,git,github,vscode,vercel&perline=7" alt="Tecnologias" />
 </div>
 
 <br />
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+## 💻 Projetos em destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🤖 KaynApp</h3>
+      <p>Bot multifuncional para Discord com sistemas de comunidade, entretenimento, música, cards, economia, moderação e recursos gamer.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
+        <img src="https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord" />
+      </p>
+      <a href="https://github.com/luizcordeiro155/KaynApp"><b>Ver repositório →</b></a><br />
+      <a href="https://kaynoficial.vercel.app/"><b>Acessar site oficial →</b></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>☀️ Painel Solar</h3>
-      <p>Aplicação web com foco em uma experiência moderna e organizada.</p>
+      <p>Aplicação web desenvolvida com foco em uma experiência moderna, organizada e responsiva.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Web-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Web" />
       </p>
       <a href="https://github.com/luizcordeiro155/Painel-Solar"><b>Ver repositório →</b></a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🏥 Planos de Saúde</h3>
       <p>Projeto web voltado para apresentação e organização de planos de saúde.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Web-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Web" />
       </p>
       <a href="https://github.com/luizcordeiro155/Planos-de-saude"><b>Ver repositório →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🤖 Kayn</h3>
-      <p>Projeto de bot e automações com arquitetura modular em Python, integrações e componentes para Discord.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-        <img src="https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord" />
-        <img src="https://img.shields.io/badge/Projeto_Privado-7c3aed?style=flat-square&logo=github&logoColor=white" alt="Projeto privado" />
-      </p>
     </td>
   </tr>
 </table>
@@ -111,19 +130,22 @@ Construindo experiências digitais com **Python**, **TypeScript** e tecnologia a
 
 ---
 
-## 🔗 Conecte-se comigo
+## 🔗 Links
 
 <div align="center">
   <a href="https://github.com/luizcordeiro155">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://kaynoficial.vercel.app/">
+    <img src="https://img.shields.io/badge/KAYN-SITE_OFICIAL-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Site oficial do Kayn" />
+  </a>
   <a href="https://github.com/luizcordeiro155?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJETOS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" />
+    <img src="https://img.shields.io/badge/PROJETOS-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <sub>Transformando ideias em código, automações e produtos digitais.</sub>
+  <sub>Construindo bots, aplicações web e produtos digitais.</sub>
 </div>
