@@ -43,14 +43,14 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcordeiro155&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcordeiro155&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizcordeiro155&theme=github_dark" alt="Estatísticas do GitHub" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizcordeiro155&theme=github_dark" alt="Linguagens por repositório" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=luizcordeiro155&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizcordeiro155&theme=github_dark" alt="Resumo do perfil" />
 </div>
 
 ---
