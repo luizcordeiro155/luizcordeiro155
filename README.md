@@ -87,7 +87,7 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
     </td>
     <td width="50%" valign="top">
       <h3>☀️ Painel Solar</h3>
-      <p>Aplicação web desenvolvida com foco em uma experiência moderna, organizada e responsiva.</p>
+      <p>Aplicação web desenvolvida para cliente de instalação de Painéis Solares.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
@@ -98,7 +98,7 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
   <tr>
     <td colspan="2" valign="top">
       <h3>🏥 Planos de Saúde</h3>
-      <p>Projeto web voltado para apresentação e organização de planos de saúde.</p>
+      <p>Projeto web criado para apresentação e organização de planos de saúde da empresa SW.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
       </p>
