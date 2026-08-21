@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Luiz 👋
+# Prazer, eu sou o Luiz 👋
 
 ### Desenvolvedor • Java • TypeScript • Bots • Aplicações Web
 
