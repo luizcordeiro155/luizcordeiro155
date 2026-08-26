@@ -121,13 +121,6 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
 
 ---
 
-## 📈 Atividade
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=luizcordeiro155&bg_color=0d1117&color=e879f9&line=7c3aed&point=a78bfa&area=true&hide_border=true" alt="Gráfico de atividade" />
-</div>
-
----
 
 ## 🔗 Links
 
