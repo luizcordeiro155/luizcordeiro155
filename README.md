@@ -34,7 +34,7 @@ Construindo produtos digitais, automações e experiências para comunidades onl
 O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderação, recursos gamer, inteligência artificial e ferramentas para servidores do Discord.
 
 [![Site Oficial](https://img.shields.io/badge/SITE_OFICIAL-KAYN-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://kaynoficial.vercel.app/)
-![Projeto Privado](https://img.shields.io/badge/CÓDIGO--FONTE-PRIVADO-24292F?style=for-the-badge&logo=github&logoColor=white)
+[![Projeto Privado](https://img.shields.io/badge/CÓDIGO--FONTE-PRIVADO-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizcordeiro155/KaynDC)
 
 </div>
 
