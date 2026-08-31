@@ -155,12 +155,18 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luizcordeiro155&show_icons=true&hide_border=true&theme=midnight-purple&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcordeiro155&layout=compact&hide_border=true&theme=midnight-purple&langs_count=8" alt="Linguagens mais usadas" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizcordeiro155&theme=midnight_purple" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizcordeiro155&theme=midnight_purple" alt="Linguagens por repositório" />
 
 <br />
+<br />
 
-<img src="https://streak-stats.demolab.com?user=luizcordeiro155&theme=midnight-purple&hide_border=true" alt="Sequência de contribuições" />
+<img width="72%" src="https://streak-stats.demolab.com?user=luizcordeiro155&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=C4B5FD" alt="Sequência de contribuições" />
+
+<br />
+<br />
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizcordeiro155&theme=midnight_purple" alt="Resumo das contribuições no GitHub" />
 
 </div>
 
@@ -205,5 +211,11 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
 <br />
 
 <div align="center">
-  <sub>Construindo bots, aplicações web, automações e produtos digitais.</sub>
+  <h3>💜 Transformando ideias em código — e código em experiências.</h3>
+  <p><i>Cada projeto é uma oportunidade de aprender, evoluir e construir algo que realmente faça diferença.</i></p>
+  <p><b>Obrigado por visitar meu perfil. Volte em breve — sempre tem algo novo sendo criado por aqui. 🚀</b></p>
+
+  <br />
+
+  <img src="./assets/profile-footer.svg" width="100%" alt="Rodapé visual roxo do perfil" />
 </div>
