@@ -211,7 +211,7 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
 <br />
 
 <div align="center">
-  <h3>💜 Transformando ideias em código — e código em experiências.</h3>
+  <h3>💜 Transformando ideias em código e código em experiências.</h3>
   <p><i>Cada projeto é uma oportunidade de aprender, evoluir e construir algo que realmente faça diferença.</i></p>
   <p><b>Obrigado por visitar meu perfil. Volte em breve — sempre tem algo novo sendo criado por aqui. 🚀</b></p>
 
