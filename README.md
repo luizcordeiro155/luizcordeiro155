@@ -194,18 +194,25 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
 
 ---
 
-## 🔗 Links
+## 🤝 Conecte-se comigo
 
 <div align="center">
-  <a href="https://github.com/luizcordeiro155">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://kaynoficial.vercel.app/">
-    <img src="https://img.shields.io/badge/KAYN-SITE_OFICIAL-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Site oficial do Kayn" />
-  </a>
-  <a href="https://github.com/luizcordeiro155?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJETOS-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" />
-  </a>
+
+<p>Quer trocar ideias sobre desenvolvimento, projetos, tecnologia ou acompanhar o que estou construindo? Me encontre por aqui:</p>
+
+<a href="https://www.linkedin.com/in/luizthesaint/">
+  <img src="https://img.shields.io/badge/LINKEDIN-LUIZ_CORDEIRO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Luiz Cordeiro" />
+</a>
+<a href="https://github.com/luizcordeiro155">
+  <img src="https://img.shields.io/badge/GITHUB-LUIZCORDEIRO155-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://kaynoficial.vercel.app/">
+  <img src="https://img.shields.io/badge/KAYN-SITE_OFICIAL-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Site oficial do Kayn" />
+</a>
+<a href="https://github.com/luizcordeiro155?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJETOS-EXPLORAR-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" />
+</a>
+
 </div>
 
 <br />
