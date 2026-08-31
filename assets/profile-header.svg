@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Luiz Cordeiro</title>
+  <desc id="desc">Software Engineering, AI and Discord Systems</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070A12"/>
+      <stop offset="48%" stop-color="#120A26"/>
+      <stop offset="100%" stop-color="#28105E"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6D28D9"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="purpleSoft" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3B177E" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0.22"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="420" rx="26" fill="url(#bg)"/>
+  <circle cx="1120" cy="42" r="210" fill="#7C3AED" opacity="0.12" filter="url(#glow)"/>
+  <circle cx="220" cy="390" r="240" fill="#4C1D95" opacity="0.13" filter="url(#glow)"/>
+
+  <path d="M0 295 C220 258 410 300 620 278 C860 252 1080 230 1400 292 L1400 420 L0 420 Z" fill="url(#purpleSoft)"/>
+  <path d="M0 335 C260 302 455 332 675 344 C930 359 1120 342 1400 305 L1400 420 L0 420 Z" fill="#090D16" opacity="0.95"/>
+  <path d="M0 368 C280 348 506 365 714 383 C970 405 1185 374 1400 348 L1400 420 L0 420 Z" fill="#0D1117"/>
+
+  <g opacity="0.6">
+    <circle cx="110" cy="72" r="3" fill="#A78BFA"/>
+    <circle cx="172" cy="116" r="2" fill="#7C3AED"/>
+    <circle cx="1250" cy="126" r="3" fill="#C4B5FD"/>
+    <circle cx="1315" cy="86" r="2" fill="#8B5CF6"/>
+    <circle cx="1005" cy="93" r="2" fill="#A855F7"/>
+  </g>
+
+  <text x="700" y="158" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="70" font-weight="800" letter-spacing="3">LUIZ CORDEIRO</text>
+  <rect x="456" y="194" width="488" height="4" rx="2" fill="url(#purple)"/>
+  <text x="700" y="248" text-anchor="middle" fill="#C4B5FD" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="27" font-weight="700" letter-spacing="2">SOFTWARE ENGINEERING  •  AI  •  DISCORD SYSTEMS</text>
+  <text x="700" y="292" text-anchor="middle" fill="#8B949E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" letter-spacing="1">Java • TypeScript • APIs • Web Apps • Automation</text>
+</svg>
