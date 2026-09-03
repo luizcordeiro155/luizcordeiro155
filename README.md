@@ -53,6 +53,7 @@ const luiz = {
 
 O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderação, recursos gamer, inteligência artificial e ferramentas para servidores do Discord.
 
+[![Adicionar Kayn](https://img.shields.io/badge/ADICIONAR_KAYN-AO_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1485761757145333892&scope=bot&permissions=8)
 [![Site Oficial](https://img.shields.io/badge/SITE_OFICIAL-KAYN-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://kaynoficial.vercel.app/)
 [![Projeto Privado](https://img.shields.io/badge/CÓDIGO--FONTE-PRIVADO-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizcordeiro155/KaynDC)
 
@@ -208,6 +209,9 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
 </a>
 <a href="https://kaynoficial.vercel.app/">
   <img src="https://img.shields.io/badge/KAYN-SITE_OFICIAL-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Site oficial do Kayn" />
+</a>
+<a href="https://discord.com/oauth2/authorize?client_id=1485761757145333892&scope=bot&permissions=8">
+  <img src="https://img.shields.io/badge/KAYN-ADICIONAR_AO_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Adicionar Kayn ao Discord" />
 </a>
 <a href="https://github.com/luizcordeiro155?tab=repositories">
   <img src="https://img.shields.io/badge/PROJETOS-EXPLORAR-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" />
