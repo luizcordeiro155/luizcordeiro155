@@ -47,7 +47,7 @@ const luiz = {
 
 <div align="center">
 
-<img src="./assets/Perfil.png" width="220" alt="Kayn" />
+<img src="https://kayn.squareweb.app/assets/Hero%20K-N7fPR_HA.png" width="220" alt="Kayn" />
 
 ### Bot multifuncional para Discord
 
