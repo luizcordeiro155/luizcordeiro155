@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Luiz Cordeiro — Software Engineering, AI and Discord Systems" />
+<img src="./assets/profile-header-v2.svg" width="100%" alt="Luiz Cordeiro — Systems Analysis and Development Student, AI and Discord Systems" />
 
 <br />
 
