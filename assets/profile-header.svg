@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
   <title id="title">Luiz Cordeiro</title>
-  <desc id="desc">Software Engineering, AI and Discord Systems</desc>
+  <desc id="desc">Systems Analysis and Development Student, AI and Discord Systems</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#070A12"/>
@@ -44,6 +44,6 @@
 
   <text x="700" y="158" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="70" font-weight="800" letter-spacing="3">LUIZ CORDEIRO</text>
   <rect x="456" y="194" width="488" height="4" rx="2" fill="url(#purple)"/>
-  <text x="700" y="248" text-anchor="middle" fill="#C4B5FD" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="27" font-weight="700" letter-spacing="2">SOFTWARE ENGINEERING  •  AI  •  DISCORD SYSTEMS</text>
+  <text x="700" y="248" text-anchor="middle" fill="#C4B5FD" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="25" font-weight="700" letter-spacing="1.5">SYSTEMS ANALYSIS AND DEVELOPMENT STUDENT  •  AI  •  DISCORD SYSTEMS</text>
   <text x="700" y="292" text-anchor="middle" fill="#8B949E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" letter-spacing="1">Java • TypeScript • APIs • Web Apps • Automation</text>
 </svg>
