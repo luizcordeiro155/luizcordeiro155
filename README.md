@@ -15,7 +15,7 @@
 ```ts
 const luiz = {
   name: "Luiz Cordeiro",
-  role: "Software Developer",
+  role: "SYSTEMS ANALYSIS AND DEVELOPMENT STUDENT",
   focus: [
     "Discord Bots",
     "Web Applications",
