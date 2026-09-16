@@ -47,17 +47,19 @@ const luiz = {
 
 <div align="center">
 
-<img src="https://kayn.squareweb.app/assets/Hero%20K-N7fPR_HA.png" width="220" alt="Kayn" />
+<img src="https://www.kayn.online/assets/Hero%20K-N7fPR_HA.png" width="220" alt="Kayn" />
 
 ### Bot multifuncional para Discord
 
 O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderação, recursos gamer, inteligência artificial e ferramentas para servidores do Discord.
 
 [![Adicionar Kayn](https://img.shields.io/badge/ADICIONAR_KAYN-AO_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1485761757145333892&scope=bot&permissions=8)
-[![Site Oficial](https://img.shields.io/badge/SITE_OFICIAL-KAYN-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://kaynoficial.vercel.app/)
+[![Site Oficial](https://img.shields.io/badge/SITE_OFICIAL-KAYN.ONLINE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kayn.online/)
 [![Projeto Privado](https://img.shields.io/badge/CÓDIGO--FONTE-PRIVADO-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizcordeiro155/KaynDC)
 
 </div>
+
+**Site oficial:** https://www.kayn.online
 
 **Stack principal:** Java 21, JDA 5, Maven, PostgreSQL, Redis, Discord e Vercel.
 
@@ -116,7 +118,7 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
         <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
         <img src="https://img.shields.io/badge/Source-Private-0d1117?style=flat-square&logo=github&logoColor=white" alt="Código privado" />
       </p>
-      <a href="https://kaynoficial.vercel.app/"><b>Acessar site oficial →</b></a>
+      <a href="https://www.kayn.online/"><b>Acessar site oficial →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>☀️ Painel Solar</h3>
@@ -207,8 +209,8 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
 <a href="https://github.com/luizcordeiro155">
   <img src="https://img.shields.io/badge/GITHUB-LUIZCORDEIRO155-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://kaynoficial.vercel.app/">
-  <img src="https://img.shields.io/badge/KAYN-SITE_OFICIAL-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Site oficial do Kayn" />
+<a href="https://www.kayn.online/">
+  <img src="https://img.shields.io/badge/KAYN-KAYN.ONLINE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Site oficial do Kayn" />
 </a>
 <a href="https://discord.com/oauth2/authorize?client_id=1485761757145333892&scope=bot&permissions=8">
   <img src="https://img.shields.io/badge/KAYN-ADICIONAR_AO_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Adicionar Kayn ao Discord" />
