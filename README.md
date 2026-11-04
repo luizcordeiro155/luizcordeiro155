@@ -161,24 +161,32 @@ O **Enturma** é uma plataforma multiplataforma que reúne estudos, colaboraçã
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Kayn</h3>
-      <p>Bot multifuncional para Discord com sistemas de comunidade, entretenimento, música, cards, economia, moderação, IA e recursos gamer.</p>
+    <td colspan="2" valign="top">
+      <h3>🤖 Kayn — bot multifuncional para Discord</h3>
+      <p><a href="https://www.kayn.online/"><img src="https://www.kayn.online/assets/Hero%20K-N7fPR_HA.png" width="88" alt="Imagem oficial do Kayn" /></a></p>
+      <p>Bot ativo para servidores Discord, com música, cards, economia, comunidade, moderação, automações, inteligência artificial e painel web integrado.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java_21-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
-        <img src="https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord" />
+        <img src="https://img.shields.io/badge/Java_21-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java 21" />
+        <img src="https://img.shields.io/badge/JDA_5-0d1117?style=flat-square&logo=discord&logoColor=5865F2" alt="JDA 5" />
         <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
-        <img src="https://img.shields.io/badge/Source-Private-0d1117?style=flat-square&logo=github&logoColor=white" alt="Código privado" />
+        <img src="https://img.shields.io/badge/PROJETO-ATIVO-7C3AED?style=flat-square&logoColor=white" alt="Projeto ativo" />
       </p>
-      <a href="https://www.kayn.online/"><b>Acessar site oficial →</b></a>
+      <a href="https://www.kayn.online/"><b>Acessar site oficial →</b></a> ·
+      <a href="https://discord.com/oauth2/authorize?client_id=1485761757145333892&amp;scope=bot&amp;permissions=8"><b>Adicionar ao Discord →</b></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>☀️ Painel Solar</h3>
-      <p>Aplicação web desenvolvida para cliente de instalação de Painéis Solares.</p>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>☀️ Painel Solar — aplicação web para energia solar</h3>
+      <p><a href="https://github.com/luizcordeiro155/Painel-Solar"><img src="https://raw.githubusercontent.com/luizcordeiro155/Painel-Solar/main/artifacts/solar-site/public/favicon.svg" width="76" alt="Logotipo do projeto Painel Solar — WM Solares" /></a></p>
+      <p>Aplicação web responsiva desenvolvida para apresentação dos serviços de uma empresa de energia solar, com foco em experiência do usuário, navegação e informações de soluções fotovoltaicas.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
         <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/PROJETO-WEB-F4B51E?style=flat-square&logoColor=0d1117" alt="Projeto web" />
       </p>
       <a href="https://github.com/luizcordeiro155/Painel-Solar"><b>Ver repositório →</b></a>
     </td>
