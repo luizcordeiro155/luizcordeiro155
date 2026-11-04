@@ -27,7 +27,7 @@ const luiz = {
   frontend: ["TypeScript", "JavaScript", "HTML", "CSS"],
   database: ["PostgreSQL", "Redis"],
   tools: ["Git", "GitHub", "Maven", "Vercel", "VS Code"],
-  currentlyBuilding: "Kayn",
+  currentlyBuilding: "Kayn + Enturma",
   mindset: "Transforming ideas into complete digital products 🚀"
 };
 ```
@@ -75,6 +75,43 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
 
 ---
 
+## 🎓 Projeto em destaque: Enturma
+
+<div align="center">
+
+<a href="https://enturma-flax.vercel.app/">
+  <img src="https://raw.githubusercontent.com/luizcordeiro155/Enturma/main/apps/mobile/assets/icon.png" width="190" alt="Logo oficial do Enturma — livro acadêmico" />
+</a>
+
+### Plataforma acadêmica para conectar estudantes
+
+O **Enturma** é uma plataforma multiplataforma que reúne estudos, colaboração, inteligência artificial, comunidade e mobilidade universitária em um único ecossistema.
+
+[![Acessar Enturma](https://img.shields.io/badge/ACESSAR_ENTURMA-PLATAFORMA-183F36?style=for-the-badge&logo=googlechrome&logoColor=D8EF79)](https://enturma-flax.vercel.app/)
+[![Baixar Enturma](https://img.shields.io/badge/BAIXAR-WINDOWS_%2B_ANDROID-D8EF79?style=for-the-badge&logo=windows&logoColor=183F36)](https://enturma-flax.vercel.app/download)
+[![Código-fonte](https://img.shields.io/badge/C%C3%93DIGO--FONTE-GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizcordeiro155/Enturma)
+
+</div>
+
+**Status:** 🟢 Disponível para **Web, Windows e Android** — em evolução contínua.
+
+**Plataforma:** https://enturma-flax.vercel.app/
+
+**Código-fonte:** https://github.com/luizcordeiro155/Enturma
+
+**Stack principal:** Java 21, Spring Boot, Next.js, React, TypeScript, PostgreSQL, Electron, Expo, Vercel e Railway.
+
+### Alguns pilares do projeto
+
+- 📚 **Salas de estudo** com mensagens em tempo real, chamadas de voz/vídeo e compartilhamento de tela
+- 🤖 **Enturma AI** para apoiar os estudos com cadernos, flashcards e ferramentas de aprendizagem
+- 💬 **Comunidade acadêmica**, fórum, perfis, amizades e interações entre estudantes
+- 🚗 **Caronas universitárias** para conectar estudantes com trajetos em comum
+- 📅 **Organização acadêmica** com materiais e recursos para a rotina universitária
+- 💻 **Experiência multiplataforma** com versões Web, Android e Windows
+
+---
+
 ## 💻 Linguagens e tecnologias
 
 <div align="center">
@@ -107,6 +144,22 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
 ## 💻 Projetos em destaque
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🎓 Enturma — plataforma acadêmica multiplataforma</h3>
+      <p><a href="https://enturma-flax.vercel.app/"><img src="https://raw.githubusercontent.com/luizcordeiro155/Enturma/main/apps/mobile/assets/icon.png" width="64" alt="Logo do Enturma" /></a></p>
+      <p>Projeto disponível para Web, Windows e Android, com salas de estudo, comunicação em tempo real, Enturma AI, comunidade acadêmica e caronas universitárias.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/WEB_%7C_ANDROID_%7C_WINDOWS-D8EF79?style=flat-square&logoColor=183F36" alt="Web, Android e Windows" />
+      </p>
+      <a href="https://enturma-flax.vercel.app/"><b>Acessar plataforma →</b></a> ·
+      <a href="https://github.com/luizcordeiro155/Enturma"><b>Ver código-fonte →</b></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 Kayn</h3>
@@ -190,6 +243,7 @@ O **Kayn** reúne comunidade, entretenimento, cards, economia, música, moderaç
 ## 🎯 Atualmente focado em
 
 - Evoluir a arquitetura e o ecossistema do **Kayn**
+- Aprimorar o **Enturma**, disponível para Web, Android e Windows
 - Criar experiências mais inteligentes para comunidades online
 - Melhorar integrações entre **Discord, web, banco de dados e APIs**
 - Aprimorar UI/UX dos produtos que desenvolvo
