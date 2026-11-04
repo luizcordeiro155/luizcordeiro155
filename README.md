@@ -179,7 +179,7 @@ O **Enturma** é uma plataforma multiplataforma que reúne estudos, colaboraçã
   <tr>
     <td colspan="2" valign="top">
       <h3>☀️ Painel Solar — aplicação web para energia solar</h3>
-      <p><a href="https://github.com/luizcordeiro155/Painel-Solar"><img src="https://raw.githubusercontent.com/luizcordeiro155/Painel-Solar/main/artifacts/solar-site/public/favicon.svg" width="76" alt="Logotipo do projeto Painel Solar — WM Solares" /></a></p>
+      <p><a href="https://github.com/luizcordeiro155/Painel-Solar"><img src="https://raw.githubusercontent.com/luizcordeiro155/Painel-Solar/main/artifacts/solar-site/public/logo.png" width="76" alt="Logotipo do projeto Painel Solar — WM Solares" /></a></p>
       <p>Aplicação web responsiva desenvolvida para apresentação dos serviços de uma empresa de energia solar, com foco em experiência do usuário, navegação e informações de soluções fotovoltaicas.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
