@@ -93,7 +93,7 @@ O **Enturma** é uma plataforma multiplataforma que reúne estudos, colaboraçã
 
 </div>
 
-**Status:** 🟢 Disponível para **Web, Windows e Android** — em evolução contínua.
+**Status:** 🟢 Disponível para **Web, Windows e Android** em evolução contínua.
 
 **Plataforma:** https://enturma-flax.vercel.app/
 
